@@ -1,0 +1,52 @@
+- POV
+    - Sensi
+		- vista
+            - daltonismo
+            - miopia
+            - spettro limitato
+		- olfatto
+            - sensibilità
+        - udito
+            - sensibilità
+    - Descrizione
+        - fisica
+        - chimica
+        - estetica
+        - matematica
+        - geometrica
+	- Posizione
+        - breve raggio
+            - vicinanza
+            - facce nascoste
+        - mentale / grande raggio
+            - Astronauta
+            - Pilota
+            - Contadino
+        - movimento
+            - mi si avvicina
+            - mi si allontana
+    - Situazione
+        - stato animo
+            - pessimista
+            - ottimista
+            - realista
+        - economica
+            - non ho soldi!
+        - salute
+            - mal di testa
+            - mal di piede
+            - sono i nformissima
+        - corpo
+            - sono troppo grosso
+            - sono troppo piccolo
+        - mentale
+            - non conosco quel linguaggio
+            - sono bravo in matematica
+	- Memoria
+        - esperienze passate
+            - buon ricordo
+            - cattivo ricordo
+        - conoscenze
+	- Interesse / Preoccupazione
+        - vedo un ostacolo
+        - vedo un'opportunità
