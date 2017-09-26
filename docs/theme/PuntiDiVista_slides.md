@@ -14,6 +14,11 @@ example: https://raw.githubusercontent.com/shd101wyy/markdown-preview-enhanced/m
 > “Non è quel che si vede,
 ma come si vede.”
 
+<p style="font-size: 18px;">press <kbd>?</kbd> key to see keyboard help.</p>
+<p style="font-size: 18px;">press <kbd>s</kbd> key to open note window.</p>
+<p style="font-size: 18px;">press <kbd>arrow</kbd> key to navigate.</p>
+<p style="font-size: 18px;">press <kbd>esc</kbd> to toggle overview.</p>
+
 <!-- slide -->
 ![smiles](assets/smiles.jpg)
 la vita è una questione di punti di vista
