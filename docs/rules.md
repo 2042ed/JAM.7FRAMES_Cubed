@@ -39,5 +39,8 @@
 Tutti i partecipanti alla Jam lavoreranno ad un unico gioco.
 Il gioco prevede molte "stanze" che il giocatore deve esplorare.
 Ogni stanza è sotto la supervisione di almeno due bambini.
+Le stanze sono navigabili in FPS (prima persona) e si possono implementare vari tipi di gameplay.
+
+
 
 ## Il giocatore
