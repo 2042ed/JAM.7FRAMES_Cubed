@@ -94,7 +94,7 @@ L’organizzazione fornirà i materiali base quali:
 
 ## Sviluppo e Tecnologia
 
-Data la natura non competitiva dell’evento e il tempo a disposizione, svilupperemo il gioco sul format del progetto dell’anno scorso, ovvero un’avventura visuale interattiva punta e clicca: giocala e analizzala: http://jamurr.org/project/7-frames/
+Data la natura non competitiva dell’evento e il tempo a disposizione, svilupperemo il gioco sul format del progetto dell’anno scorso, ovvero un’avventura visuale interattiva punta e clicca: giocala e analizzala: <http://jamurr.org/project/7-frames/>
 
 La grafica sarà realizzata con Minecraft e pixel art, il montaggio con Unity e software open source, oppure tutto con Minecraft vedremo...
 
@@ -124,7 +124,7 @@ Tutti i lavori saranno resi pubblici **open source** sotto licenza Creative Comm
 
 ## Iscrizione
 
-Non rimane che compilare la form: https://docs.google.com/forms/d/e/1FAIpQLSc8ug5G9EkjoHMSOs4S-SPIwVnwnsw_gLm7A5Lb-N9iX2_l_A/viewform
+Non rimane che compilare la form: <https://docs.google.com/forms/d/e/1FAIpQLSc8ug5G9EkjoHMSOs4S-SPIwVnwnsw_gLm7A5Lb-N9iX2_l_A/viewform>
 
 Premettiamo che non garantiamo la partecipazione a tutti quelli che si iscrivono (i posti sono limitati e saranno assegnati mantenendo una giusta proporzione tra bambini e tutor).
 
