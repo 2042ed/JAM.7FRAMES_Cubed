@@ -1,5 +1,10 @@
 # Internet Festival 2017
 ## Kids Game Jam
 
-- il TEMA di quest'anno è "PUNTI DI VISTA".. [guarda la presentazione](theme).
+- [Introduzione](introduction.html): una sintesi del regolamento
 
+- [Tema](theme/): introduzione al tema di quest'anno: "PUNTI DI VISTA".
+
+- [Regolamento](rules.html): il regolamento della giornata
+
+- [Strumenti](tools.html): una selezione di strumenti utili
