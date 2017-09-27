@@ -1,5 +1,3 @@
-# Internet Festival 2017
-## Kids Game Jam
 
 - [Introduzione](introduction.html): una sintesi del regolamento
 

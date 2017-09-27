@@ -5,20 +5,21 @@
 **sabato 7 ottobre**
 
 - 9:30 registrazione
-- 10:30 introduzione e formazione gruppi
-- 11:00 inizio lavori (ideazione e scrittura della storia)
+- 10:30 introduzione
+- 11:00 inizio lavori (ideazione storia, personaggi e ambienti)
 - 13:00 pausa pranzo e visita alla Jam dei “grandi”
-- 14:00 produzione testi e grafica
-- 18:30 chiusura giornata e revisione dei progetti
+- 14:00 produzione grafica e testi
+- 18:30 chiusura giornata e revisione
+- 19:30 tutti a cena!
 
 **domenica 8 ottobre**
 
-- 10:30 revisione dell’idea di gioco
-- 11:00 inizio montaggio assets grafici e testi
+- 9:30 revisione del progetto e flows
+- 10:30 continua la produzione degli assets e integrazione
 - 13:00 pausa pranzo
 - 14:00 registrazione voci e audio
 - 16:00 test finale
-- 16:30 presentazioni lavori
+- 16:30 presentazione del gioco
 - 17:00 saluti
 
 ## Cosa deve fare ogni kid
