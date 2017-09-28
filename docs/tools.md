@@ -7,27 +7,27 @@
 ## Voxel editors
 
 ### Desktop
-- **MagicaVoxel** (Win & Mac)  
-  PROS: free, powerful, Win & Mac, lots of tutorials, awesome renders  
-  CONS: not super easy to learn, doesn't export separate objects, no layers  
-  <https://ephtracy.github.io>  
-- **VoxelShop** (Win & Mac)  
-  PROS: free & OpenSource, Java app, has layers  
-  CONS: difficult UI  
-  <https://blackflux.com/node/11>  
-- **Goxel** (Win & Mac & iOS)  
-  PROS: free & OpenSource, powerful  
-  CONS: not easy UI  
-  <https://github.com/guillaumechereau/goxel>  
-- **Qubicle** (Win & Mac)  
-  PROS: easy, has layers and submodels, used by pro  
-  CONS: commercial (75$)  
-  <http://qubicle-constructor.com>
+- **MagicaVoxel** (Win & Mac)
+PROS: free, powerful, Win & Mac, lots of tutorials, awesome renders
+CONS: not super easy to learn, doesn't export separate objects, no layers
+<https://ephtracy.github.io>
+- **VoxelShop** (Win & Mac)
+PROS: free & OpenSource, Java app, has layers
+CONS: difficult UI
+<https://blackflux.com/node/11>
+- **Goxel** (Win & Mac & iOS)
+PROS: free & OpenSource, powerful
+CONS: not easy UI
+<https://github.com/guillaumechereau/goxel>
+- **Qubicle** (Win & Mac)
+PROS: easy, has layers and submodels, used by pro 
+CONS: commercial (75$) 
+<http://qubicle-constructor.com> 
 
 ### Mobile
-- **Voxel** (iOS)  
-  PROS: very powerful, easy  
-  CONS: commercial (3$)  
+- **Voxel** (iOS)
+  PROS: very powerful, easy
+  CONS: commercial (3$)
   <https://itunes.apple.com/us/app/voxel/id333186489?mt=8>  
 - **Goxel** (iOS)  
   PROS:   
