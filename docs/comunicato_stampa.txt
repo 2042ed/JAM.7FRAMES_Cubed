@@ -7,7 +7,7 @@ I giochi prodotti alla Kids Game Jam sono spassosi e intelligenti! Il tema di qu
 Per partecipare basta avere voglia, aver compiuto almeno 7 anni e portarsi dietro un computer o un tablet. I minori dovranno essere accompagnati da un adulto che sarà coinvolto nel cantiere videoludico.
 Non costa niente e non si vince niente. Il gioco sarà pubblicato online gratuitamente ed opensource e sarà presentato alle esibizioni di videogiochi indipendenti.
 
-Il gioco dell'anno scorso "7 FRAMES" (intitolato così perchè il team era composto da 7 bambini) aveva come tema "Se non ci fossero gli altri..." e ne è uscita un'avventura grafica davvero divertente. Si può giocarla su PC/mac/iOS/Android https://jamurr.github.io/JAM.7FRAMES/
+Il gioco dell'anno scorso "7 FRAMES" (intitolato così perché il team era composto da 7 bambini) aveva come tema "Se non ci fossero gli altri..." e ne è uscita un'avventura grafica davvero divertente. Si può giocarla su PC/mac/iOS/Android https://jamurr.github.io/JAM.7FRAMES/
 
 Quest'anno si aggiungerà una dimensione e dal 2D si passerà al 3D.
 
