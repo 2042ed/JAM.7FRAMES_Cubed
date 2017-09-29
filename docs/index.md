@@ -8,3 +8,8 @@
 - [Strumenti](tools.html): una selezione di strumenti utili
 
 - [Esempi & Ispirazione](inspiration.html): esempi a cui ispirarsi
+
+
+---
+
+- [Press](press.html): comunicati stampa e materiali per la diffusione

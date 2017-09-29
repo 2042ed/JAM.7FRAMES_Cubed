@@ -3,9 +3,9 @@
 
 ## COMUNICATO STAMPA
 
-Il 7 e l'8 ottobre 2017 si terrà a Pisa, nell'ambito dell'Internet Festival, la seconda edizione della IF Kids Game Jam, una maratona di creatività rivolta a bambini e ragazzini che insieme ai loro genitori creeranno collettivamente un videogioco. 
+Il 7 e l'8 ottobre 2017 si terrà a Pisa, nell'ambito dell'Internet Festival, la seconda edizione della IF Kids Game Jam, una maratona di creatività rivolta a bambini e ragazzini che insieme ai loro genitori creeranno collettivamente un videogioco.
 Lasciando agli adulti le parti di programmazione più complicate, le ragazze e i ragazzi saranno invitati a ideare la storia, definire i personaggi, immaginare gli ambienti, disegnare in 3D e in 2D la grafica del gioco, scrivere i testi dei personaggi e doppiarli con la propria voce.
- 
+
 I giochi prodotti alla Kids Game Jam sono spassosi e intelligenti, e vengono inventati a partire da un tema dato, che quest'anno è «punti di vista»: come cambia la stessa cosa se la guardi con occhi diversi? e non è forse solo assieme che si riesce ad avere una visione completa?
 Per partecipare basta avere voglia, aver compiuto almeno 7 anni e portarsi dietro un computer o un tablet. I minori dovranno essere accompagnati da un adulto che sarà coinvolto nel cantiere videoludico.
 Non costa niente e non si vince niente. Il gioco sarà pubblicato online gratuitamente ed opensource e sarà presentato alle esibizioni di videogiochi indipendenti.
