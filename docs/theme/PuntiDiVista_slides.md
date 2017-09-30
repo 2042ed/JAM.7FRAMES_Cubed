@@ -14,9 +14,9 @@ example: https://raw.githubusercontent.com/shd101wyy/markdown-preview-enhanced/m
 > “Non è quel che si vede,
 ma come si vede.”
 
-<p style="font-size: 18px;">press <kbd>esc</kbd> to toggle overview.</p>
-<p style="font-size: 18px;">press <kbd>arrow</kbd> key to navigate.</p>
-<p style="font-size: 18px;">press <kbd>?</kbd> key to see keyboard help.</p>
+<p style="font-size: 18px;"><kbd>esc</kbd> per la panoramica</p>
+<p style="font-size: 18px;"><kbd>frecce</kbd> per navigare</p>
+<p style="font-size: 18px;"><kbd>?</kbd> per tutti i comandi</p>
 
 <!-- slide -->
 ![smiles](assets/smiles.jpg)
@@ -29,8 +29,7 @@ che tu abbia ragione non significa che io abbia torto
 forse non guardiamo le cose dallo stesso punto di vista
 
 <!-- slide -->
-![](assets/43.jpg)
-
+<img src="assets/43.jpg" width="800">
 <!-- slide -->
 ![](assets/MW.jpg)
 
@@ -60,7 +59,7 @@ Ad esempio di un oggetto potremmo descriverne:
 - l'estetica
 - la matematica
 - la geometria
-...
+- ...
 
 <!-- slide -->
 ## Posizione
@@ -108,14 +107,14 @@ diverso è un treno fermo, oppure che si allontana oppure che mi si avvicina vel
 
 <!-- slide -->
 ## Situazione
-Come sto? Chi sono? Come sono?
+Come sto? Chi sono? Come sono? Cosa mi piace?
 Parliamo di salute, del lavoro, della tipologia di corpo che abbiamo, delle nostre capacità intellettuali, dell'età, del luogo in cui stiamo...
 tutto ciò influisce su come vediamo le cose.
 
 <!-- slide -->
 ## Situazione
 ### stato animo
-  - pessimista
+  - pessimista (penso che tutto vada sempre male)
   - ottimista
   - realista
 
@@ -130,7 +129,6 @@ tutto ciò influisce su come vediamo le cose.
 <!-- slide -->
 ## Situazione
 ### salute
-  - sono disabile
   - ho una malattia incurabile
   - ho un forte nal di testa
   - mi sento davvero bene
@@ -146,10 +144,24 @@ tutto ciò influisce su come vediamo le cose.
 
 <!-- slide -->
 ## Situazione
+### corpi diversitamente abili
+    - sono disabile
+    - non sono umano
+    - sono un'intelligenza artificale
+
+<!-- slide -->
+## Situazione
 ### mentale
   - non conosco quel linguaggio
   - sono bravo in matematica
   - sono timido
+
+  <!-- slide -->
+## Situazione
+### gusti
+    - mi piace il silenzio
+    - mi piace il caldo
+    - mi piace l'ordine
 
 <!-- slide -->
 ## Memoria ed esperienze passate
@@ -168,10 +180,9 @@ Ugualmente cone le preoccupazioni.
 - vedo un'opportunità
 
 <!-- slide -->
-# Diversi racconti
+## Diversi racconti
 In relazione a come cambia il punto di vista, l'oggetto ci si presenta in un modo o in un altro.
 Di modo che vi possono essere **diverse** descrizioni di uno stesso tema o oggetto.
-
 
 <!-- slide -->
 <!-- Alba -->
@@ -190,7 +201,8 @@ _da che parte stiamo e cosa ci immaginiamo_
 
 <!-- slide -->
 <!-- Bambini & colore pelle -->
-![POV](assets/bimbi.jpg)
+<img src="assets/bimbi.jpg" width="700">
+
 _non abbiamo scelto noi come e dove nascere_
 
 <!-- slide -->
@@ -225,7 +237,7 @@ _ognuno vede ciò che vuole di più_
 <!-- slide -->
 <!-- Rinoceronte -->
 ![POV](assets/rinoceronte_pittore.jpg)
-_alcune coso sono sempre lì che per noi sono "naturali"
+_alcune cose sono sempre lì che per noi sono "naturali"
 ma non siamo tutti uguali!_
 
 <!-- slide -->
@@ -235,7 +247,7 @@ _dove sei vedi cose diverse_
 
 <!-- slide -->
 <!-- GEB -->
-![POV](assets/GEB_1.png)
+<img src="assets/GEB_1.png" width="600">
 
 <!-- slide -->
 <!-- GEB 2 -->
@@ -252,12 +264,15 @@ _Come guardi il mondo?_
 
 <!-- slide -->
 <!-- Re -->
-![POV](assets/king.jpg)
+<img src="assets/king.jpg" width="600">
+
 _Re e Popolo_
+"Provate a vedere le cose dal mio punto di vista!"
 
 <!-- slide -->
-![POV](assets/minestra.jpg)
-_Minestra_
+<img src="assets/minestra.jpg" width="600">
+
+_Minestra (spinaci)_
 
 <!-- slide -->
 <!-- MonaLisa -->
@@ -271,10 +286,12 @@ _MonaLisa come ti vedo..._
 <!-- slide -->
 <!-- Prospettiva 1 -->
 ![POV](assets/prospettive_1.gif)
+Dove guardiamo cambia la prospettiva
 
 <!-- slide -->
 <!-- Prospettiva 2 -->
 ![POV](assets/prospettive_2.jpg)
+Prospettiva e linea dell'orizzonte
 
 <!-- slide -->
 <!-- Tunnel -->
@@ -291,7 +308,7 @@ ci si concentra solo sul proprio punto di vista e si è assolutamente incapaci d
 
 <!-- slide -->
 # trovare una soluzione
-Ogni volta che entriamo in disaccordo con gli altri non chiediamoci: chi ha ragione? ma: come possiamo trovare una soluzione che possa soddisfare entrambi? quale soluzione risulta vincente per entrambi?
+Ogni volta che entriamo in disaccordo con gli altri non chiediamoci: chi ha ragione? ma: come possiamo trovare una soluzione che possa soddisfare entrambi?
 
 <!-- slide -->
 # soluzioni:
@@ -301,6 +318,9 @@ Provare a mettersi nei panni dell'altro
 # soluzioni:
 Provare a ricordarsi che il nostro è UNO dei punti di vista
 
+<!-- slide -->
+# soluzioni:
+Cercare di capire da dove nasce il nostro punto di vista.
 <!-- slide -->
 # soluzioni:
 Provare a cercare altri punti di vista
@@ -321,6 +341,10 @@ Diminuerebbero gli scontri e i diverbi.
 <!-- slide -->
 # Aforismi
 “Non è quel che si vede, ma come si vede.”
+
+---
+
+_(scrolla giù per leggerne altri)_
 
 <!-- slide vertical=true -->
 “Noi non vediamo la realtà, ma la nostra interpretazione della realtà.”
