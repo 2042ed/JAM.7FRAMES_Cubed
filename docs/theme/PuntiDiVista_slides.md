@@ -14,10 +14,9 @@ example: https://raw.githubusercontent.com/shd101wyy/markdown-preview-enhanced/m
 > “Non è quel che si vede,
 ma come si vede.”
 
-<p style="font-size: 18px;">press <kbd>?</kbd> key to see keyboard help.</p>
-<p style="font-size: 18px;">press <kbd>s</kbd> key to open note window.</p>
-<p style="font-size: 18px;">press <kbd>arrow</kbd> key to navigate.</p>
 <p style="font-size: 18px;">press <kbd>esc</kbd> to toggle overview.</p>
+<p style="font-size: 18px;">press <kbd>arrow</kbd> key to navigate.</p>
+<p style="font-size: 18px;">press <kbd>?</kbd> key to see keyboard help.</p>
 
 <!-- slide -->
 ![smiles](assets/smiles.jpg)
@@ -119,6 +118,7 @@ tutto ciò influisce su come vediamo le cose.
   - pessimista
   - ottimista
   - realista
+
 <!-- slide -->
 ## Situazione
 ### economica
@@ -126,12 +126,16 @@ tutto ciò influisce su come vediamo le cose.
   - sono ricco
   - ho una lavoro precario
   - lavoro part-time
+
+<!-- slide -->
 ## Situazione
 ### salute
   - sono disabile
   - ho una malattia incurabile
   - ho un forte nal di testa
   - mi sento davvero bene
+
+<!-- slide -->
 ## Situazione
 ### corpo
   - sono maschio o femmina?
@@ -139,6 +143,8 @@ tutto ciò influisce su come vediamo le cose.
   - sono piccino
   - sono vecchia
   - sono giovane
+
+<!-- slide -->
 ## Situazione
 ### mentale
   - non conosco quel linguaggio
