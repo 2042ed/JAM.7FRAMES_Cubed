@@ -36,62 +36,136 @@ forse non guardiamo le cose dallo stesso punto di vista
 ![](assets/MW.jpg)
 
 <!-- slide -->
-## Punto di Vista
+## Punti di Vista
 ![POV](sources/POV.png)
+ce ne sono molti.. analizziamone alcuni
 
 <!-- slide -->
-# Descrizione
+## Sensi
+i nostri sensi non sono tutti uguali!
+- vista
+  - daltonismo (io lo vedo rosso, tu no)
+  - miopia (io non vedo questa cosa)
+  - spettro limitato (non vediamo il calore o gli UV)
+- olfatto
+  - sensibilità (io sento un odore e tu no)
+- udito
+  - sensibilità (io sento questo suono e tu no)
+
+<!-- slide -->
+## Descrizione
 Quando descriviamo un tema o un oggetto lo facciamo sempre a partire da un certo punto di vista o da un certo interesse.
-Potremmo così descrivere un oggetto dal punto di vista fisico, chimico, estetico, matematico, geometrico, ecc.
+Ad esempio di un oggetto potremmo descriverne:
+- la fisica
+- la chimica
+- l'estetica
+- la matematica
+- la geometria
+...
+
+<!-- slide -->
+## Posizione
+Guardare un oggetto da davanti o da dietro.
+Un oggetto fermo o in estrema velocità verso di noi.
+stare a terra, in cielo o nello spazio.
+
+<!-- slide -->
+## Posizione spaziale
+La posizione che abbiamo nello spazio cambia il punto di vista!
+rispetto all'oggetto osservato
+- **vicinanza** vedo i dettagli
+- **lontananza** vedo il contorno e le proporzioni
+- **posizione relativa**
+  vedo il dietro o aspetti altrimenti inimmaginabili.
+  oppure la realtà discorda dall'immaginazione.
+
+<!-- slide -->
+## Posizione mentale
+uno puà avere anche solo una posizione "mentale" riferita all'oggetto.
+Ad esempio il luogo in cui si vive:
+
+<!-- slide -->
+## Posizione
+punto di vista dell'**Astronauta**
+![](assets/POV_space.jpg)
+vede il mondo nella sua totalità
+
+<!-- slide -->
+## Posizione
+punto di vista del **Pilota**
+![](assets/POV_pilota.jpg)
+vede tutto il territorio
+
+<!-- slide -->
+## Posizione
+punto di vista del **Contadino**
+![](assets/POV_contadino.png)
+vede solo ciò che ha intorno
+
+<!-- slide -->
+## Posizione
+### movimento relativo
+diverso è un treno fermo, oppure che si allontana oppure che mi si avvicina velocemente!
+
+<!-- slide -->
+## Situazione
+Come sto? Chi sono? Come sono?
+Parliamo di salute, del lavoro, della tipologia di corpo che abbiamo, delle nostre capacità intellettuali, dell'età, del luogo in cui stiamo...
+tutto ciò influisce su come vediamo le cose.
+
+<!-- slide -->
+## Situazione
+### stato animo
+  - pessimista
+  - ottimista
+  - realista
+<!-- slide -->
+## Situazione
+### economica
+  - non ho soldi!
+  - sono ricco
+  - ho una lavoro precario
+  - lavoro part-time
+## Situazione
+### salute
+  - sono disabile
+  - ho una malattia incurabile
+  - ho un forte nal di testa
+  - mi sento davvero bene
+## Situazione
+### corpo
+  - sono maschio o femmina?
+  - sono grassona
+  - sono piccino
+  - sono vecchia
+  - sono giovane
+## Situazione
+### mentale
+  - non conosco quel linguaggio
+  - sono bravo in matematica
+  - sono timido
+
+<!-- slide -->
+## Memoria ed esperienze passate
+Quello che conosciamo o abbiamo sperimentato in passato può influire su come vediamo una cosa, perchè o ci rievoca emozioni, oppure ci modifica l'immaginazione!
+
+- buon ricordo
+- cattivo ricordo
+
+<!-- slide -->
+## Interesse e Preoccupazione
+cosa voglio fare? cosa mi preoccupa?
+A seconda del mio interesse, posso vedere una cosa come un'ostacolo oppure come un'opportunità.
+Ugualmente cone le preoccupazioni.
+
+- vedo un ostacolo
+- vedo un'opportunità
 
 <!-- slide -->
 # Diversi racconti
 In relazione a come cambia il punto di vista, l'oggetto ci si presenta in un modo o in un altro.
 Di modo che vi possono essere **diverse** descrizioni di uno stesso tema o oggetto.
 
-<!-- slide -->
-# Sensi
-I nostri sensi (vista, udito, olfatto) percepiscono il mondo.. ma non abbiamo tutti gli stessi "parametri"!
-
-<!-- slide -->
-# Memoria
-Quello che conosciamo o abbiamo sperimentato in passato può influire su come vediamo una cosa, perchè o ci rievoca emozioni, oppure ci modifica l'immaginazione!
-
-<!-- slide -->
-# Interesse e Preoccupazione
-A seconda del mio interesse, posso vedere una cosa come un'ostacolo oppure come un'opportunità.
-Ugualmente cone le preoccupazioni.
-
-<!-- slide -->
-# Situazione
-Come stiamo?
-Parliamo di salute, del lavoro, della tipologia di corpo che abbiamo, delle nostre capacità intellettuali, dell'età, del luogo in cui stiamo...
-tutto ciò influisce su come vediamo le cose.
-
-<!-- slide -->
-# Posizione
-Guardare un oggetto da davanti o da dietro.
-Un oggetto fermo o in estrema velocità verso di noi.
-stare a terra, in cielo o nello spazio.
-La posizione che abbiamo nello spazio cambia il punto di vista!
-
-<!-- slide -->
-punto di vista dell'
-## Astronauta
-vede il mondo nella sua totalità
--- image --
-
-<!-- slide -->
-punto di vista del
-## Pilota
-vede tutto il territorio
--- image --
-
-<!-- slide -->
-punto di vista del
-## Contadino
-vede solo ciò che ha intorno
--- image --
 
 <!-- slide -->
 <!-- Alba -->
@@ -230,6 +304,15 @@ Provare a cercare altri punti di vista
 Trovare un terzo punto di vista accettabile
 
 <!-- slide -->
+# Conseguenze:
+Scoprire nuovi punti di vista arricchisce la nostra vita.
+Potremmo scoprire di stare sbagliando.
+Oppure che non esiste solo il bianco e il nero.
+Impareremmo a convivere più felicemente.
+Diminuerebbero gli scontri e i diverbi.
+
+
+<!-- slide -->
 # Aforismi
 “Non è quel che si vede, ma come si vede.”
 
@@ -264,3 +347,4 @@ Trovare un terzo punto di vista accettabile
 
 <!-- slide -->
 # Buon lavoro!
+## da TUTTI i punti di vista ;)
