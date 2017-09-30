@@ -156,12 +156,19 @@ tutto ciò influisce su come vediamo le cose.
   - sono bravo in matematica
   - sono timido
 
-  <!-- slide -->
+<!-- slide -->
 ## Situazione
 ### gusti
     - mi piace il silenzio
     - mi piace il caldo
     - mi piace l'ordine
+
+<!-- slide -->
+## Situazione
+### ruoli
+  - un insegnante ha un ruolo diverso dall'alunno
+  - un genitore ha un ruolo diverso dal figlio
+  - un ingegnere ha un ruolo diverso da un architetto
 
 <!-- slide -->
 ## Memoria ed esperienze passate
@@ -303,6 +310,18 @@ Esperimento QuattrOcchi
 _una macchina per invertire i punti di vista bambino <> adulto_
 
 <!-- slide -->
+## film
+![POV](assets/hoodwinked.jpg)
+**Cappuccetto Rosso e i Soliti Sospetti**
+la narrazione è un intreccio dei diversi punti di vista dei personaggi
+
+<!-- slide -->
+## film
+![POV](assets/finestra-sul-cortile.jpg)
+**La finestra sul cortile**
+il protagonista è bloccato in casa e vede tutto con un binocolo
+
+<!-- slide -->
 ## problema: visione a tunnel
 ci si concentra solo sul proprio punto di vista e si è assolutamente incapaci di vedere le cose dal punto di vista altrui.
 
@@ -321,6 +340,11 @@ Provare a ricordarsi che il nostro è UNO dei punti di vista
 <!-- slide -->
 # soluzioni:
 Cercare di capire da dove nasce il nostro punto di vista.
+
+<!-- slide -->
+# soluzioni:
+Alcuni punti di vsita non li abbiamo scelti noi.
+
 <!-- slide -->
 # soluzioni:
 Provare a cercare altri punti di vista
