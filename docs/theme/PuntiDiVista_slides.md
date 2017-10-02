@@ -5,10 +5,12 @@ presentation:
   controls: true
   slideNumber: true
 ---
-docs: https://shd101wyy.github.io/markdown-preview-enhanced/#/presentation?id=presentation-front-matter
+<!--  
+docs:
+https://shd101wyy.github.io/markdown-preview-enhanced/#/presentation?id=presentation-front-matter
 example: https://raw.githubusercontent.com/shd101wyy/markdown-preview-enhanced/master/docs/presentation-intro.md
+-->
 
---
 <!-- slide -->
 <p style="font-size: 18px;">IF Kids Game Jam 2017: il TEMA è</p>
 
