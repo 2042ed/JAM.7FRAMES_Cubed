@@ -8,3 +8,5 @@
 
 ## Art
 - [Voxel Art](https://twitter.com/search?src=typd&q=magicavoxel) - una carrellata di esempi di costruzioni con Magica Voxel
+
+- [Voxel Objects](https://photos.google.com/share/AF1QipP6uOWkcfqbGh268HLv99CYOZHT36bHSdrL_bX21Yt_zzMtscG_qMHtqmQZ11sb7Q?key=QnNUQmRSLWlRd3ViT1VrYVhJaHlYWTBtYmRNc1lR) - moltissimi oggetti creati con MagicaVoxel
