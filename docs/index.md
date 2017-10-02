@@ -1,3 +1,4 @@
+![](assets/images/jamming.png)
 
 - [Introduzione](introduction.html): una sintesi del regolamento
 
