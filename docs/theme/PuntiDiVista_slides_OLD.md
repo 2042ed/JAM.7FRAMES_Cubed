@@ -56,7 +56,6 @@ ce ne sono molti.. analizziamone alcuni
 <!-- slide -->
 ## Sensi
 i nostri sensi non sono tutti uguali!
-<!--
 - vista
   - daltonismo (io lo vedo rosso, tu no)
   - miopia (io non vedo questa cosa)
@@ -66,12 +65,25 @@ i nostri sensi non sono tutti uguali!
   - sensibilità (alcuni esseri sentono odori a noi ignoti)
 - udito
   - sensibilità (i gatti e i cani sentono MOLTI più suoni di noi)
--->
 
+<!-- slide -->
+## Descrizione
+Quando descriviamo un tema o un oggetto lo facciamo sempre a partire da un certo punto di vista o da un certo interesse.
+Ad esempio di un oggetto potremmo descriverne:
+- la fisica
+- la chimica
+- l'estetica
+- la matematica
+- la geometria
+- ...
 
 <!-- slide -->
 ## Posizione
 Dove sta il nostro occhio o la nostra mente mentre osserviamo?
+
+<!-- slide -->
+## Posizione spaziale
+La posizione che abbiamo rispetto all'oggetto osservato è il più semplice dei _punti di vista_... e ci possono essere delel sorprese semplicemente a spotarsi di poco.
 
 <!-- slide -->
 <!-- Cilindro Cubo -->
@@ -88,22 +100,31 @@ _dove sei vedi cose diverse_
 
 <!-- slide -->
 ## Posizione mentale
+uno puà avere anche solo una posizione "mentale" riferita all'oggetto.
+Ad esempio il luogo in cui si vive:
+
+<!-- slide -->
+## Posizione
 punto di vista dell'**Astronauta**
 ![](assets/POV_space.jpg)
 vede il mondo nella sua totalità
 
 <!-- slide -->
-## Posizione mentale
+## Posizione
 punto di vista del **Pilota**
 ![](assets/POV_pilota.jpg)
 vede tutto il territorio
 
 <!-- slide -->
-## Posizione mentale
+## Posizione
 punto di vista del **Contadino**
 ![](assets/POV_contadino.png)
 vede solo ciò che ha intorno
 
+<!-- slide -->
+## Posizione
+### movimento relativo
+diverso è un treno fermo, oppure che si allontana oppure che mi si avvicina velocemente!
 
 <!-- slide -->
 ## Situazione
@@ -114,8 +135,9 @@ tutto ciò influisce su come vediamo le cose.
 <!-- slide -->
 ## Situazione
 ### stato animo
-<!-- Tunnel -->
-![POV](assets/tunnel.jpg)
+  - pessimista (penso che tutto vada sempre male)
+  - ottimista
+  - realista
 
 <!-- slide -->
 ## Situazione
@@ -288,6 +310,10 @@ Dove guardiamo cambia la prospettiva
 <!-- Prospettiva 2 -->
 ![POV](assets/prospettive_2.jpg)
 Prospettiva e linea dell'orizzonte
+
+<!-- slide -->
+<!-- Tunnel -->
+![POV](assets/tunnel.jpg)
 
 <!-- slide -->
 Esperimento QuattrOcchi
