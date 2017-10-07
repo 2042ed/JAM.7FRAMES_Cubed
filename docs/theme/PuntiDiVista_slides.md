@@ -108,7 +108,6 @@ vede solo ciò che ha intorno
 <!-- slide -->
 ## Situazione
 Come sto? Chi sono? Come sono? Cosa mi piace?
-Parliamo di salute, del lavoro, della tipologia di corpo che abbiamo, delle nostre capacità intellettuali, dell'età, del luogo in cui stiamo...
 tutto ciò influisce su come vediamo le cose.
 
 <!-- slide -->
@@ -119,27 +118,13 @@ tutto ciò influisce su come vediamo le cose.
 
 <!-- slide -->
 ## Situazione
-### economica
   - non ho soldi!
-  - sono ricco
-  - ho una lavoro precario
-  - lavoro part-time
-
-<!-- slide -->
-## Situazione
-### salute
   - ho una malattia incurabile
   - ho un forte nal di testa
-  - mi sento davvero bene
-
-<!-- slide -->
-## Situazione
-### corpo
   - sono maschio o femmina?
-  - sono grassona
+  - sono grassone
   - sono piccino
-  - sono vecchia
-  - sono giovane
+  - sono vecchietta
 
 <!-- slide -->
 <!-- Formica -->
@@ -149,21 +134,9 @@ _una formica ci vede molto diversamente_
 
 <!-- slide -->
 ## Situazione
-### corpi diversitamente abili
     - sono disabile
     - non sono umano
-    - sono un'intelligenza artificale
-
-<!-- slide -->
-## Situazione
-### mentale
-  - non conosco quel linguaggio
-  - sono bravo in matematica
-  - sono timido
-
-<!-- slide -->
-## Situazione
-### gusti
+    - mi sento a disagio quando c'è tanta gente
     - mi piace il silenzio
     - mi piace il caldo
     - mi piace l'ordine
@@ -181,11 +154,6 @@ _una formica ci vede molto diversamente_
 
 _Re e Popolo_
 "Provate a vedere le cose dal mio punto di vista!"
-
-<!-- slide -->
-## Diversi racconti
-In relazione a come cambia il punto di vista, l'oggetto ci si presenta in un modo o in un altro.
-Di modo che vi possono essere **diverse** descrizioni di uno stesso tema o oggetto.
 
 <!-- slide -->
 <!-- Alba -->
