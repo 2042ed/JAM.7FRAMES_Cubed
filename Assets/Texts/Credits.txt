@@ -1,28 +1,24 @@
 Questo gioco è stato sviluppato in una Kids Game Jam.
-Ovvero 7 bambini (dai 7 ai 12 anni) si trovati durante l'Internet Festival 2016 ed è stato dato loro un TEMA "SE NON CI FOSSERO GLI ALTRI..."
-In poche ore i ragazzi in concertazione (JAM) tra loro e con la supervisione dei genitori, dovevano ideare e creare il prototipo di un videogioco.
+Ovvero 7 bambini (dai 8 ai 12 anni) si trovati durante l'Internet Festival 2017 ed è stato dato loro un TEMA "PUNTI DI VISTA"
+In due giorni i ragazzi in concertazione (JAM) tra loro e con la supervisione dei genitori, hanno ideato e creato il prototipo di un videogioco.
 Ognuno con le proprie capacità e preferenze ha dato del suo meglio.
-
-E' stato poi completato con un'altra giornata di Jame e infine revisionato e ultimato via internet in qualche pomeriggio di pioggia.
 
 <h1>IDEE, DIALOGHI, PERSONAGGI, AMBIENTAZIONI, MUSICA, VOCI, DISEGNI, DEBUG</h1>
 - Angelo Boni
-- Elia Gotuzzo
-- Elio Bretzel
+- Davide
 - Enea Polsinelli
 - Fabio Cecere
 - Maia Polsinelli
-- Marco Tarasconi
+- Micol Pelella
+- Ruben
 
 <h1>JAM CONCEPT e COORDINAZIONE</h1>
 - Stefano Cecere
 
 <h1>GENITORI e TUTORS</h1>
 - Annabella Coiro
-- Gianluca Tarasconi
-- Laura Mirri
+- Dario Pelella
 - Mauro Vanetti
-- Michele Gotuzzo
 - Pietro Polsinelli
 - Stefano Cecere
 
@@ -30,16 +26,13 @@ E' stato poi completato con un'altra giornata di Jame e infine revisionato e ult
 - Michele Lanzo
 - Internet Festival www.internetfestival.it
 - Mixart Pisa www.mix-art.org
-- Santeria Milano www.santeriamilano.it
-- Luca Mela (voce del narratore)
 - e il PICCOLO BRUNO!
 
 <h1>STRUMENTI / TOOLS</h1>
+- MagicaVoxel
 - Fungus (engine open source) www.fungusgames.com-
 - Unity
-- Minecraft
 - GitHub
-- GIMP e vari pixel editors
 
 <h1>PROGETTO OPEN SOURCE</h1>
 Questo progetto è doverosamente gratuito sotto licenza Creative Commons ed Open Source.
