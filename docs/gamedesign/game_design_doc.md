@@ -1,3 +1,5 @@
+# Game Design Doc (IF2017 Kids Game Jam)
+
 mondo terrain unico
 
 6 personaggi
@@ -17,6 +19,10 @@ SI MUORE (ma si mantengono items e personaggi acquisiti) giusto un respawn del p
 
 i bigs sono tutti e 5 in una room a spippolare col computer non hanno tempo.
 
+## Personaggi
+
+# Player
+Assunta Frame!!!!
 
 # Orso
 (coins: miele/cibo)
@@ -57,5 +63,5 @@ habitat: discarica
 -> vede pericoli
 (coins: colori / arcobaleni)
 
-
+# Bos
 --> BOSS
