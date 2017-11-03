@@ -24,13 +24,13 @@ namespace JAMURR
         /// Tracks common events using Unity Analytics.
         /// Set to TRUE for production.
         /// </summary>
-        public static bool UseUnityAnalytics = true;
+        public static bool UseUnityAnalytics = false;
 
         /// <summary>
         /// Switches on all Debug.Log calls for performance.
         /// Set to FALSE for production.
         /// </summary>
-        public static bool VerboseLogging = true;
+        public static bool VerboseLogging = false;
         #endregion
 
         // public URLs
@@ -41,6 +41,6 @@ namespace JAMURR
         public const string UrlCommunityTelegram = "https://t.me/jamurr";
         public const string UrlCommunityFacebook = "https://www.facebook.com/JAMURR.org";
         public const string UrlSupportForm = "https://docs.google.com/forms/d/1nDByCkT7GSWvRkrCkesIbMiHog8s_3eoAfYgI3rYlcE";
-        public const string UrlGithubRepository = "https://github.com/JAMURR/JAM.7FRAMES";
+        public const string UrlGithubRepository = "https://github.com/JAMURR/JAM.IF2017";
     }
 }
