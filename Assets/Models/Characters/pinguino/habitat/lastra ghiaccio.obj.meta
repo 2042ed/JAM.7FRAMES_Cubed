@@ -1,14 +1,14 @@
 fileFormatVersion: 2
-guid: ea68ca8a5278b40cca478e35c27ea070
-timeCreated: 1507459169
+guid: 8097214f788374c9f9c4952f93fcd3b5
+timeCreated: 1509781967
 licenseType: Pro
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: default
-    400000: //RootNode
-    400002: default
+    100000: default
+    100002: //RootNode
+    400000: default
+    400002: //RootNode
     2300000: default
     3300000: default
     4300000: default
@@ -16,8 +16,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: palette
-    second: {fileID: 2100000, guid: 8f441005060214afbb17da9505ec8b07, type: 2}
+      name: defaultMat
+    second: {fileID: 2100000, guid: b6bc1dba7511b4eb7bc95dc7acfe45bc, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -47,13 +47,13 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.5
+    globalScale: 0.1
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
