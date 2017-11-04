@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 52ab5e336f6dd457683fdaec223dfe09
-timeCreated: 1507459168
+guid: 8ba006c787f2645748fc292335f14927
+timeCreated: 1507458252
 licenseType: Pro
 ModelImporter:
   serializedVersion: 22
@@ -12,12 +12,7 @@ ModelImporter:
     2300000: default
     3300000: default
     4300000: default
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: palette
-    second: {fileID: 2100000, guid: b25a168b4f1104c12bba9f2c521ee082, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -47,13 +42,13 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.05
+    globalScale: 0.03
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1

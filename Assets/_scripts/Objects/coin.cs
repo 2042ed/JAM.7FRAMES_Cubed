@@ -16,4 +16,10 @@ public class coin : MonoBehaviour
     {
         transform.Rotate(Vector3.up, Time.deltaTime * rotationSpeed);
     }
+
+    void OnTriggerEnter(Collider other)
+    {
+        Debug.Log("Destroy coin");
+        Destroy(gameObject);
+    }
 }
