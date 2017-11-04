@@ -1,9 +1,7 @@
 fileFormatVersion: 2
-guid: 3c88551ffe1087c40af85c04ab79a168
-labels:
-- Core
-timeCreated: 1507395884
-licenseType: Free
+guid: f982fe3953f7c4a6b9210679961dbc19
+timeCreated: 1509756349
+licenseType: Pro
 DefaultImporter:
   externalObjects: {}
   userData: 
