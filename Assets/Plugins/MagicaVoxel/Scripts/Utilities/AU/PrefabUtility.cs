@@ -54,7 +54,7 @@ namespace AU
 
             while (String.IsNullOrEmpty(path))
             {
-                var parent = PrefabUtility.GetPrefabParent(rsrc);
+                var parent = PrefabUtility.GetCorrespondingObjectFromSource(rsrc);
 
                 if (parent == null)
                 {
@@ -85,7 +85,7 @@ namespace AU
 
             while (String.IsNullOrEmpty(path))
             {
-                var parent = PrefabUtility.GetPrefabParent(rsrc);
+                var parent = PrefabUtility.GetCorrespondingObjectFromSource(rsrc);
 
                 if (parent == null)
                 {
@@ -103,7 +103,7 @@ namespace AU
         {
             try
             {
-                UnityEngine.Object parent = PrefabUtility.GetPrefabParent(obj);
+                UnityEngine.Object parent = PrefabUtility.GetCorrespondingObjectFromSource(obj);
                 if (parent != null)
                     PrefabUtility.ReplacePrefab(parent as GameObject, parent, ReplacePrefabOptions.ConnectToPrefab);
             }
